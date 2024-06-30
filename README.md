@@ -20,23 +20,50 @@
 
 # Categories:
 
-| No. 	| Categories |
-|  :---:   |  :---    | 
+| No. 	| Categories 
+| :---: | :---     
 | 1    	| [Link Shortners](#link-shortners)
 | 2    	| [ Autohotkey Scripts](#autohotkey-scripts) 
-| 3    	| [How stuff works](#how-stuff-works) 
+| 3    	| [How stuff works](#how-stuff-works)
 
 </div>
 
 ## Link Shortners
-
-- [Dub.co](https://dub.co/)
-- [gg.gg](https://gg.gg/)
+- [https://dub.co](https://dub.co/)
+- [https://gg.gg](https://gg.gg/)
 
 ## Autohotkey Scripts
-
-- [Collection](https://github.com/Drugoy/Autohotkey-scripts-.ahk#autohotkey-scripts-ahk)
+- [github.com/Autohotkey-scripts-.ahk](https://github.com/Drugoy/Autohotkey-scripts-.ahk#autohotkey-scripts-ahk)
 
 ## How stuff works
+- [github.com/winrar-keygen](https://github.com/viperadnan-git/winrar-keygen/#winrar-keygen)
 
-- [WinRAR Keygen](https://github.com/viperadnan-git/winrar-keygen/#winrar-keygen)
+## Learn Git and Github
+- [github.com/awesome-github](https://github.com/phillipadsmith/awesome-github#awesome-github--)
+- [github.com/awesome](https://github.com/sindresorhus/awesome#contents)
+
+## Piracy
+- [rentry.org/The-Piracy-Glossary](https://rentry.org/The-Piracy-Glossary)
+- [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
+    - [github.com/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy#awesome-piracy)
+- [r/Piracy/wiki](https://www.reddit.com/r/Piracy/wiki/index/)
+    - [r/Piracy/wiki/Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)
+
+## Guides
+- [freemediaheckyeah](https://fmhy.net/)
+    - [r/freemediaheckyeah/wiki](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
+- [rentry.co/fmhy-guides](https://rentry.co/fmhy-guides#fmhy-guides)
+
+## NSFW
+- ### Search 
+    - [search4porn.net](https://search4porn.net/)
+- ### Downloads
+    - [bestpornstars.org (K2S)](https://www.bestpornstars.org/)
+    - [adultdb.io (K2S)](https://www.adultdb.io/)
+
+## Web Development
+- [github.com/web-development-resources](https://github.com/markodenic/web-development-resources#awesome-web-development-resources-)
+
+## Text to Handwriting
+- [github.io/Assignment_Writer/](https://saiteja69.github.io/Assignment_Writer/)
+    - [github.com/Digital_Text_To_Handwriting](github.com/SaiTeja69/Digital_Text_To_Handwriting)
