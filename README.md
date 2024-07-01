@@ -60,10 +60,16 @@
 - ### Downloads
     - [bestpornstars.org (K2S)](https://www.bestpornstars.org/)
     - [adultdb.io (K2S)](https://www.adultdb.io/)
-
+                    
 ## Web Development
 - [github.com/web-development-resources](https://github.com/markodenic/web-development-resources#awesome-web-development-resources-)
 
 ## Text to Handwriting
 - [github.io/Assignment_Writer/](https://saiteja69.github.io/Assignment_Writer/)
     - [github.com/Digital_Text_To_Handwriting](github.com/SaiTeja69/Digital_Text_To_Handwriting)
+
+ ## Canva Links
+- [proinvitelinks.com](https://www.proinvitelinks.com/)
+
+## Forums
+- [onehack.us](https://onehack.us)
