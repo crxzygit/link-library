@@ -8,7 +8,7 @@
 > [!CAUTION]
 > WARNING - This ia a NSFW section! Only access if you are 18+ of age.
 <details>
-<summary>Click to expand ◀</summary>
+<summary>▷ Click to expand ◁</summary>
 
  ### Porn
 - [pornstars.tube](https://pornstars.tube/)
