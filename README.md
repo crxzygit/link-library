@@ -25,7 +25,6 @@
 - [Learn Git and Github](#learn-git-and-github)
 - [Piracy](#piracy)
 - [Guides](#guides)
-- [NSFW](#nsfw)
 - [Web Development](#web-development)
 - [Text to Handwriting](#text-to-handwriting)
 - [Canva Pro Invite Links](#canva-pro-invite-links)
@@ -40,6 +39,7 @@
 - [Windows Download Managers](#windows-download-managers)
 - [Windows and Office Activation](#windows-and-office-activation)
 - [Adobe Products Activation](#adobe-products-activation)
+    - [r/GenP - (Patching Creative Cloud Application)](#rgenp---patching-creative-cloud-application)
 - [VPN](#vpn)
 - [Useful Browser Extensions](#useful-browser-extensions)
 - [Movies](#movies)
@@ -52,10 +52,11 @@
     - [1. Matrix falling text motion](#1-matrix-falling-text-motion)
     - [2. How to make your computer Welcome 'your name' on start up](#2-how-to-make-your-computer-welcome-your-name-on-start-up)
     - [3. Text to Audio](#3-text-to-audio)
-    - [4. ADD TIME STAMP EVERYTIME TEXT FILE IS EDITED](#4-add-time-stamp-everytime-text-file-is-edited)
+    - [4. Add time stamp everytime text file is edited](#4-add-time-stamp-everytime-text-file-is-edited)
 - [Softwares](#softwares)
 - [Miscellaneous / Unique Websites](#miscellaneous--unique-websites)
 - [Unicode Text Styles Converters](#unicode-text-styles-converters)
+- [NSFW](#nsfw)
 
 
 # Link Shortners
@@ -84,21 +85,7 @@
     - [r/freemediaheckyeah/wiki](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
 - [rentry.co/fmhy-guides](https://rentry.co/fmhy-guides#fmhy-guides)
 
-
-# NSFW
-<details>
-<summary>NSFW </summary>
-
-- ### Comics/3D animations
-  - [f95zone](https://f95zone.to/) 
-- ### Search 
-  - [search4porn.net](https://search4porn.net/)
-- ### Downloads
-  - [bestpornstars.org (K2S)](https://www.bestpornstars.org/)
-  - [adultdb.io (K2S)](https://www.adultdb.io/)
-</details>
-
-                    
+    
 # Web Development
 - [github.com/web-development-resources](https://github.com/markodenic/web-development-resources#awesome-web-development-resources-)
 - [codemyui - (Web Design & UI Inspiration with Code Snippets)](https://codemyui.com/)
@@ -133,6 +120,7 @@
 - [Perplexity - (Realtime, up-to-date answers, leverages the power of AI like GPT-4 and Claude 2)](https://www.perplexity.ai/)
 - [chat.hackerai.co](https://chat.hackerai.co/) - (Answering your hacking related questions and codes)
   - [github.com/Hacker-GPT](https://github.com/Hacker-GPT/HackerGPT-2.0/)
+- [aihustle](https://aihustle.tools) - (Collection of tools)
 
 # MACOS Apps
 - [nmac.to](https://nmac.to/now/)
@@ -162,11 +150,13 @@
 
 # Graphics Asset
 - [psdly.com ](https://www.psdly.com)
+- [freevideoeffect](https://freevideoeffect.com) - (Gdrive Downloads)
 - [aedownload.com](https://aedownload.com/)
 - [aedownloadpro.com](https://aedownloadpro.com/)
 - [aeopener.com](https://aeopener.com/)
 - [vfxdownload.com](https://vfxdownload.com/)
 - [lincungstock](https://www.lincungstock.com/)
+- [shareae.com](https://shareae.com/)
 
   
 # Windows Download Managers
@@ -175,6 +165,7 @@
 - [JDownloader2](https://jdownloader.org/jdownloader2)
 
 # Windows and Office Activation
+> [!NOTE]  
 > Run Powershell (Not CMD), Copy and paste the code below and press enter
     
 
@@ -191,7 +182,6 @@ irm https://massgrave.dev/get | iex
     - [activated.win](https://activated.win/)
 
 # Adobe Products Activation
-<!-- omit from toc -->
 ### [r/GenP - (Patching Creative Cloud Application)](https://www.reddit.com/r/GenP/)
 
 1. Compatibility List
@@ -284,7 +274,7 @@ Set crxzygit = CreateObject("sapi.spvoice")
 Set crxzygit.Voice = crxzygit.GetVoices.Item(1)
 crxzygit.Speak speaks  
 ```
-
+> [!TIP]
 > To make your computer greet you when you turn it ON : 
 > 1. Open the run box by pressing the Windows button + R and typing "AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup". 
 > 2. Save this code in Notepad, then click Save As and enter any name after the type.vbs, then click on all files.everything is done.
@@ -294,7 +284,7 @@ crxzygit.Speak speaks
 
 OR 
 
-Copy this code into a notepad file, save it is a 'Text-to-Audio.vbs '
+Copy this code into a notepad file, save it is a 'Text-to-Audio.vbs'
 
 ```
 Dim msg, crxzygit 
@@ -304,7 +294,7 @@ Set crxzygit.Voice = crxzygit.GetVoices.Item(1)
 crxzygit.Speak msg   
 ```
 ---
-### 4. ADD TIME STAMP EVERYTIME TEXT FILE IS EDITED
+### 4. Add time stamp everytime text file is edited
 1. Open Notepad.
 2. Type ".LOG" on the first line (.LOG must be in capital letters).
 3. Save and close the file.
@@ -329,3 +319,22 @@ crxzygit.Speak msg
 - [weirdgenerator](https://www.weirdgenerator.com/)
 - [stylemytext](https://www.stylemytext.com/)
 - [unicode-formatter](https://unicode-formatter.demolab.com/)
+
+# NSFW
+<details>
+<summary>▷ Click to expand, warning ◁</summary>
+
+> [!CAUTION]
+> WARNING - This ia a NSFW section! Only access if you are 18+ of age.
+
+  <details>
+  <summary>▷ Expand for the link ◁</summary>
+
+- [NSFW Link Library](https://github.com/crxzygit/link-library/blob/main/dat.md)
+
+  </details>
+</details>
+
+<!-- omit from toc -->
+# 
+        
