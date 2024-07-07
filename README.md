@@ -321,19 +321,17 @@ crxzygit.Speak msg
 - [unicode-formatter](https://unicode-formatter.demolab.com/)
 
 # NSFW
-<details>
-<summary>▷ Click to expand, warning ◁</summary>
 
 > [!CAUTION]
-> WARNING - This ia a NSFW section! Only access if you are 18+ of age.
-
-  <details>
-  <summary>▷ Expand for the link ◁</summary>
+> WARNING - This ia a NSFW section (Adult Section)<br>
+> Only access if you are 18+ of age.
+<details>
+<summary>▷ Click to Expand ◁</summary>
 
 - [NSFW Link Library](https://github.com/crxzygit/link-library/blob/main/dat.md)
 
-  </details>
 </details>
+
 
 <!-- omit from toc -->
 # 
