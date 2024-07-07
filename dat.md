@@ -5,8 +5,10 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=700&pause=400&color=F70000&center=true&vCenter=true&random=false&width=435&lines=18%2B+Only" width="100%" height="60">
 </div>
 
+> [!CAUTION]
+> WARNING - This ia a NSFW section! Only access if you are 18+ of age.
 <details>
-<summary>Links (Click to open)</summary>
+<summary>Click to expand ◀</summary>
 
  ### Porn
 - [pornstars.tube](https://pornstars.tube/)
