@@ -8,8 +8,8 @@
 ![](https://komarev.com/ghpvc/?username=crxzygit&style=for-the-badge&color=0CA4A5&base=162&logo=) 
 ![](https://img.shields.io/badge/LINKS-y?style=for-the-badge&logo=inertia&logoColor=0CA4A5&label=DIRECT&labelColor=&color=0CA4A5)
 ![](https://img.shields.io/badge/PURPOSE%20ONLY-y?style=for-the-badge&logo=bookstack&logoColor=0CA4A5&label=EDUCATIONAL&color=0CA4A5)
-
-![](https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-0CA4A5?style=for-the-badge&logo=ApacheSpark&logoColor=white) 
+---
+![](https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-000?style=for-the-badge&logo=ApacheSpark&logoColor=0CA4A5) 
 
 
 <!-- [![crxzy](https://quotes-github-readme.vercel.app/api?type=horizontal&author=crxzy&theme=merko&border=true)](https://github.com/crxzygit) -->
@@ -128,9 +128,16 @@
 - [torrentmac.net](https://www.torrentmac.net/)
 
 # PC Games
+- [gdhubnation.gdhub.workers.dev](https://gdhubnation.gdhub.workers.dev/0:/Games/PC%20GAMES/)
+    > [!IMPORTANT] Gdhubnation Login Details :
+    > ``` 
+    > USERNAME : gdhubnation 
+    > PASSWORD : premium123
+    > ```
+    - Get password at https://t.me/gdhubnation or https://t.me/addlist/kSRuxU-MT_swMWY1
 - [fitgirl-repacks.site - (Less file size, higher install time)](http://fitgirl-repacks.site/)
 - [dodi-repacks.site - (Less install time, higher file size)](https://dodi-repacks.site/)
--  [game-repacks.site - (Direct Play, no install)](https://game-repack.site/)
+-  [game-repacks.site - (Full download , Direct Play, no install)](https://game-repack.site/)
 - [gamesdrive.net](https://gamesdrive.net/index.php)
 
 # PC Games Trainers (Cheats)
@@ -165,10 +172,7 @@
 - [JDownloader2](https://jdownloader.org/jdownloader2)
 
 # Windows and Office Activation
-> [!NOTE]  
-> Run Powershell (Not CMD), Copy and paste the code below and press enter
-    
-
+> [!WARNING]Run Powershell (Not CMD), Copy and paste the code below and press enter.
 ```
 irm https://get.activated.win | iex
 ```
@@ -214,9 +218,16 @@ irm https://massgrave.dev/get | iex
 
 # Movies
 - [olamovies.rent](https://olamovies.rent/)
-- [psa.wf](https://psa.wf/)
 - [pahe.ink](https://pahe.ink/)
-- [gdhubnation](https://gdhubnation.gdhub.workers.dev/) (If locked get password at https://t.me/gdhubnation)
+- [psa.wf](https://psa.wf/)
+- [gdhubnation](https://gdhubnation.gdhub.workers.dev/) 
+     > [!IMPORTANT] Gdhubnation Login Details :
+     > ``` 
+     > USERNAME : gdhubnation 
+     > PASSWORD : premium123
+     > ```
+    - Get password at https://t.me/gdhubnation or https://t.me/addlist/kSRuxU-MT_swMWY1
+
 
 # Android Apps
 - [rexdl](https://rexdl.com/)
@@ -274,8 +285,7 @@ Set crxzygit = CreateObject("sapi.spvoice")
 Set crxzygit.Voice = crxzygit.GetVoices.Item(1)
 crxzygit.Speak speaks  
 ```
-> [!TIP]
-> To make your computer greet you when you turn it ON : 
+> [!TIP] To make your computer greet you when you turn it ON :
 > 1. Open the run box by pressing the Windows button + R and typing "AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup". 
 > 2. Save this code in Notepad, then click Save As and enter any name after the type.vbs, then click on all files.everything is done.
 ---
@@ -322,9 +332,7 @@ crxzygit.Speak msg
 
 # NSFW
 
-> [!CAUTION]
-> WARNING - This ia a NSFW section (Adult Section)<br>
-> Only access if you are 18+ of age.
+> [!CAUTION] WARNING - This ia a NSFW section (Adult Section) Only access if you are 18+ of age.
 <details>
 <summary>▷ Click to Expand ◁</summary>
 
@@ -333,6 +341,5 @@ crxzygit.Speak msg
 </details>
 
 
-<!-- omit from toc -->
-# 
+---
         
