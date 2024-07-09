@@ -129,13 +129,13 @@
 
 # PC Games
 - [gdhubnation.gdhub.workers.dev](https://gdhubnation.gdhub.workers.dev/0:/Games/PC%20GAMES/)
-    > [!IMPORTANT] 
-    > Gdhubnation Login Details :
-    > ```
-    > USERNAME : gdhubnation
-    > PASSWORD : premium123
-    > ```
-    > Get password at https://t.me/gdhubnation or https://t.me/addlist/kSRuxU-MT_swMWY1
+> [!IMPORTANT] 
+> Gdhubnation Login Details :
+> ```
+> USERNAME : gdhubnation
+> PASSWORD : premium123
+> ```
+> Get password at https://t.me/gdhubnation or https://t.me/addlist/kSRuxU-MT_swMWY1
 - [fitgirl-repacks.site - (Less file size, higher install time)](http://fitgirl-repacks.site/)
 - [dodi-repacks.site - (Less install time, higher file size)](https://dodi-repacks.site/)
 - [game-repacks.site - (Full download , Direct Play, no install)](https://game-repack.site/)
@@ -223,13 +223,13 @@ irm https://massgrave.dev/get | iex
 - [pahe.ink](https://pahe.ink/)
 - [psa.wf](https://psa.wf/)
 - [gdhubnation.gdhub.workers.dev](https://gdhubnation.gdhub.workers.dev/0:/Games/PC%20GAMES/)
-    > [!IMPORTANT] 
-    > Gdhubnation Login Details :
-    > ```
-    > USERNAME : gdhubnation
-    > PASSWORD : premium123
-    > ```
-    > Get password at https://t.me/gdhubnation or https://t.me/addlist/kSRuxU-MT_swMWY1
+> [!IMPORTANT] 
+> Gdhubnation Login Details :
+> ```
+> USERNAME : gdhubnation
+> PASSWORD : premium123
+> ```
+> Get password at https://t.me/gdhubnation or https://t.me/addlist/kSRuxU-MT_swMWY1
 
 
 # Android Apps
