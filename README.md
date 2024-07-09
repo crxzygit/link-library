@@ -129,15 +129,16 @@
 
 # PC Games
 - [gdhubnation.gdhub.workers.dev](https://gdhubnation.gdhub.workers.dev/0:/Games/PC%20GAMES/)
-    > [!IMPORTANT] Gdhubnation Login Details :
-    > ``` 
-    > USERNAME : gdhubnation 
+    > [!IMPORTANT] 
+    > Gdhubnation Login Details :
+    > ```
+    > USERNAME : gdhubnation
     > PASSWORD : premium123
     > ```
-    - Get password at https://t.me/gdhubnation or https://t.me/addlist/kSRuxU-MT_swMWY1
+    > Get password at https://t.me/gdhubnation or https://t.me/addlist/kSRuxU-MT_swMWY1
 - [fitgirl-repacks.site - (Less file size, higher install time)](http://fitgirl-repacks.site/)
 - [dodi-repacks.site - (Less install time, higher file size)](https://dodi-repacks.site/)
--  [game-repacks.site - (Full download , Direct Play, no install)](https://game-repack.site/)
+- [game-repacks.site - (Full download , Direct Play, no install)](https://game-repack.site/)
 - [gamesdrive.net](https://gamesdrive.net/index.php)
 
 # PC Games Trainers (Cheats)
@@ -172,7 +173,8 @@
 - [JDownloader2](https://jdownloader.org/jdownloader2)
 
 # Windows and Office Activation
-> [!WARNING]Run Powershell (Not CMD), Copy and paste the code below and press enter.
+> [!WARNING]
+> Run Powershell (Not CMD), Copy and paste the code below and press enter.
 ```
 irm https://get.activated.win | iex
 ```
@@ -220,13 +222,14 @@ irm https://massgrave.dev/get | iex
 - [olamovies.rent](https://olamovies.rent/)
 - [pahe.ink](https://pahe.ink/)
 - [psa.wf](https://psa.wf/)
-- [gdhubnation](https://gdhubnation.gdhub.workers.dev/) 
-     > [!IMPORTANT] Gdhubnation Login Details :
-     > ``` 
-     > USERNAME : gdhubnation 
-     > PASSWORD : premium123
-     > ```
-    - Get password at https://t.me/gdhubnation or https://t.me/addlist/kSRuxU-MT_swMWY1
+- [gdhubnation.gdhub.workers.dev](https://gdhubnation.gdhub.workers.dev/0:/Games/PC%20GAMES/)
+    > [!IMPORTANT] 
+    > Gdhubnation Login Details :
+    > ```
+    > USERNAME : gdhubnation
+    > PASSWORD : premium123
+    > ```
+    > Get password at https://t.me/gdhubnation or https://t.me/addlist/kSRuxU-MT_swMWY1
 
 
 # Android Apps
@@ -285,7 +288,8 @@ Set crxzygit = CreateObject("sapi.spvoice")
 Set crxzygit.Voice = crxzygit.GetVoices.Item(1)
 crxzygit.Speak speaks  
 ```
-> [!TIP] To make your computer greet you when you turn it ON :
+> [!TIP] 
+> To make your computer greet you when you turn it ON :
 > 1. Open the run box by pressing the Windows button + R and typing "AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup". 
 > 2. Save this code in Notepad, then click Save As and enter any name after the type.vbs, then click on all files.everything is done.
 ---
@@ -332,7 +336,8 @@ crxzygit.Speak msg
 
 # NSFW
 
-> [!CAUTION] WARNING - This ia a NSFW section (Adult Section) Only access if you are 18+ of age.
+> [!CAUTION] 
+> WARNING - This ia a NSFW section (Adult Section) Only access if you are 18+ of age.
 <details>
 <summary>▷ Click to Expand ◁</summary>
 
@@ -342,4 +347,16 @@ crxzygit.Speak msg
 
 
 ---
-        
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.<br>This is a second line.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
