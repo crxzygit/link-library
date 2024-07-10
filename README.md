@@ -46,6 +46,8 @@
 - [Android Apps](#android-apps)
 - [Fake Identity Generator](#fake-identity-generator)
 - [Wallpapers](#wallpapers)
+    - [Desktop](#desktop)
+    - [Mobile](#mobile)
 - [CS2](#cs2)
 - [Fonts](#fonts)
 - [Notepad Tricks](#notepad-tricks)
@@ -239,13 +241,34 @@ irm https://massgrave.dev/get | iex
 - [fakeaddressgenerator](https://www.fakeaddressgenerator.com/US_Real_Random_Address)
 
 # Wallpapers
+
+### Desktop
+- [wallhaven.cc](https://wallhaven.cc)
+- [wallhalla.com](https://wallhalla.com)
+- [heroscreen.cc](https://www.heroscreen.cc/)
 - [vlad.studio](https://vlad.studio/wallpapers/)
 - [wallpaperswide.com](https://wallpaperswide.com/)
+- [wallpaperflare.com](https://www.wallpaperflare.com/)
 - [unspalsh.com](https://unsplash.com/)
+- [pexels.com](https://www.pexels.com/)
+- [positrondream.com](https://www.positrondream.com/wallpapers-all)
+- [artstation.com](https://www.artstation.com/)
+- [pixexid.com](https://pixexid.com/) - (Ai generated)
+- [r/wallpaper](https://www.reddit.com/r/wallpaper/)
+- [r/wallpapers](https://www.reddit.com/r/wallpapers/)
+- [r/ImaginaryLandscapes](https://www.reddit.com/r/ImaginaryLandscapes/)
 - [wallpaperscraft](https://wallpaperscraft.com/)
+- [unsplash.com](https://unsplash.com/t/wallpapers)
 - [mylivewallpapers](https://mylivewallpapers.com/)
+- [wallpapersmug.com](https://wallpapersmug.com/)
 - [uhdwallpaper](https://www.uhdpaper.com/)
+- [wall.alphacoders.com](https://wall.alphacoders.com)
 - [minimalistic-wallpaper](https://minimalistic-wallpaper.demolab.com/)
+- [apod.nasa.gov](https://apod.nasa.gov/apod/) - (Astronomy by Nasa )
+- [nik.bot.nu](https://nik.bot.nu/browse.html)
+### Mobile
+- [wallpaperize.cc](https://www.wallpaperize.cc/)
+- [peakpx.com](https://www.peakpx.com/)
 
 # CS2
 - [Crosshair Generator](https://dathost.net/tools/cs2-crosshair-generator)
