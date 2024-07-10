@@ -56,7 +56,6 @@
 - [Softwares](#softwares)
 - [Miscellaneous / Unique Websites](#miscellaneous--unique-websites)
 - [Unicode Text Styles Converters](#unicode-text-styles-converters)
-- [NSFW](#nsfw)
 
 
 # Link Shortners
@@ -129,13 +128,11 @@
 
 # PC Games
 - [gdhubnation.gdhub.workers.dev](https://gdhubnation.gdhub.workers.dev/0:/Games/PC%20GAMES/)
-> [!IMPORTANT] 
-> Gdhubnation Login Details :
-> ```
-> USERNAME : gdhubnation
-> PASSWORD : premium123
-> ```
-> Get password at https://t.me/gdhubnation or https://t.me/addlist/kSRuxU-MT_swMWY1
+    <br>Gdhubnation Login Details : Get password at https://t.me/gdhubnation or https://t.me/addlist/kSRuxU-MT_swMWY1
+    ```
+    USERNAME : gdhubnation
+    PASSWORD : premium123
+    ```
 - [fitgirl-repacks.site - (Less file size, higher install time)](http://fitgirl-repacks.site/)
 - [dodi-repacks.site - (Less install time, higher file size)](https://dodi-repacks.site/)
 - [game-repacks.site - (Full download , Direct Play, no install)](https://game-repack.site/)
@@ -219,18 +216,17 @@ irm https://massgrave.dev/get | iex
 | [DeArrow](https://dearrow.ajay.app/)                               | For crowdsourcing better titles and thumbnails on YouTube, no more clickbait.                         |
 
 # Movies
-- [olamovies.rent](https://olamovies.rent/)
+- [olamovies.rent](https://olamovies.rent/) - (https://telegram.me/olamovies_officialv6)
 - [pahe.ink](https://pahe.ink/)
 - [psa.wf](https://psa.wf/)
 - [gdhubnation.gdhub.workers.dev](https://gdhubnation.gdhub.workers.dev/0:/Games/PC%20GAMES/)
-> [!IMPORTANT] 
-> Gdhubnation Login Details :
-> ```
-> USERNAME : gdhubnation
-> PASSWORD : premium123
-> ```
-> Get password at https://t.me/gdhubnation or https://t.me/addlist/kSRuxU-MT_swMWY1
-
+    <br>Gdhubnation Login Details : Get password at https://t.me/gdhubnation or https://t.me/addlist/kSRuxU-MT_swMWY1
+    ```
+    USERNAME : gdhubnation
+    PASSWORD : premium123
+    ```
+- [uhdmovies](https://uhdmovies.eu)
+- [movies4u](https://movies4u.bid/) - (https://telegram.dog/movies4u_org)
 
 # Android Apps
 - [rexdl](https://rexdl.com/)
@@ -334,6 +330,7 @@ crxzygit.Speak msg
 - [stylemytext](https://www.stylemytext.com/)
 - [unicode-formatter](https://unicode-formatter.demolab.com/)
 
+<!--
 # NSFW
 
 > [!CAUTION] 
@@ -344,7 +341,7 @@ crxzygit.Speak msg
 - [NSFW Link Library](https://github.com/crxzygit/link-library/blob/main/dat.md)
 
 </details>
-
+-->
 
 ---
 
