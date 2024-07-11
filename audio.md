@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
 </div>
 
-### [<- Return to Link Library Readme](readme.md)
+### [<- Return to Link Library Readme](README.md)
 <!-- omit from toc -->
 # Categories :
 - [Steaming Apps](#steaming-apps)
