@@ -4,14 +4,15 @@
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
 </div>
 
-### [<- Return to Link Library Readme](README.md)
+### [```◁ Return to Link Library```](README.md)
+
 <!-- omit from toc -->
 # Categories :
 - [Steaming Apps](#steaming-apps)
 
 # Steaming Apps
-- [Spotify Client](https://www.spotify.com/us/download/) | [SpotifyD](https://github.com/Spotifyd/spotifyd) | [Lofi Rocks](https://www.lofi.rocks/) | [ncspot](https://github.com/hrkfdn/ncspot)[Strix](https://github.com/Arlodotexe/strix-music) | [Spotube](https://github.com/KRTirtho/)
-> [Spicetify](https://github.com/spicetify) - Themes for spotify client
+- [Spotify Client](https://www.spotify.com/us/download/) | [SpotifyD](https://github.com/Spotifyd/spotifyd) | [Lofi Rocks](https://www.lofi.rocks/) | [ncspot](https://github.com/hrkfdn/ncspot)[Strix](https://github.com/Arlodotexe/strix-music) | [Spotube](https://github.com/KRTirtho/)<br>
+\> *[Spicetify](https://github.com/spicetify) - Themes and extensions for spotify client*
 - [Deezer](https://www.deezer.com/)
 - [FunkWhale](https://funkwhale.audio/)
 - [nuclear](https://nuclear.js.org/), [Github](https://github.com/nukeop/nuclear), [Discord](https://discord.com/invite/JqPjKxE)
