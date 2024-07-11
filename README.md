@@ -58,6 +58,8 @@
 - [Softwares](#softwares)
 - [Miscellaneous / Unique Websites](#miscellaneous--unique-websites)
 - [Unicode Text Styles Converters](#unicode-text-styles-converters)
+- [Steam Tricks](#steam-tricks)
+    - [Display any game in game collector section (Even if you dont own them!)](#display-any-game-in-game-collector-section-even-if-you-dont-own-them)
 
 
 # Link Shortners
@@ -353,6 +355,57 @@ crxzygit.Speak msg
 - [stylemytext](https://www.stylemytext.com/)
 - [unicode-formatter](https://unicode-formatter.demolab.com/)
 
+# Steam Tricks
+### Display any game in game collector section (Even if you dont own them!)
+
+![preview_game_showcase](https://github.com/crxzygit/gdriveindex/assets/31028322/fc8d56aa-98fb-4d61-b2ea-7d4e52dde704)
+1. Go to edit profile https://steamcommunity.com/my/edit
+2. Scroll down until you see your Game Collector Showcase
+3. Open the Developer Console (Usually F12)
+4. Navigate to the Console tab
+5. Then you need to edit this code and paste it into your browser's console :<br>
+```
+SetShowcaseConfig(2, '0', N, {appid: X})
+```
+<!-- omit from toc -->
+### 1. Value of ```N```
+> [!NOTE]
+> Replace ```N``` with given number below :
+
+<details>
+<summary>▷ Click to Expand ◁</summary>
+
+| ```N``` Value   | Position (Left to Right) |
+| --------------- | ------------------------ |
+| ***(Level 1)*** |                          |
+| ```0```         | For First Game           |
+| ```1```         | For Second Game          |
+| ```2```         | For Third Game           |
+| ```3```         | For Fourth Game          |
+| ***(Level 2)*** |                          |
+| ```4```         | For First Game           |
+| ```5```         | For Second Game          |
+| ```6```         | For Third Game           |
+| ```7```         | For Fourth Game          |
+| ***(Level 3)*** |                          |
+| ```8```         | For First Game           |
+| ```9```         | For Second Game          |
+| ```10```        | For Third Game           |
+| ```11```        | For Fourth Game          |
+</details>
+
+<!-- omit from toc -->
+### 2. Value of ```X```
+> [!NOTE]
+> Replace ```X``` with appid of the game you want<br>
+> Get appid of games from https://steamdb.info 
+> Hellohow are you   
+
+> [!IMPORTANT]
+Example: <br>
+For showcasing **STAR WARS Jedi: Fallen Order** as the ```Second Game in Level 3``` in showcase :<br>
+```SetShowcaseConfig(2, '0', 9, {appid: 1172380})``` 
+
 <!--
 # NSFW
 
@@ -361,7 +414,7 @@ crxzygit.Speak msg
 <details>
 <summary>▷ Click to Expand ◁</summary>
 
-- [NSFW Link Library](https://github.com/crxzygit/link-library/blob/main/dat.md)
+- [NSFW Link Library](dat.md)
 
 </details>
 -->
