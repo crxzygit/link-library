@@ -9,8 +9,12 @@
 ![](https://img.shields.io/badge/LINKS-y?style=for-the-badge&logo=inertia&logoColor=0CA4A5&label=DIRECT&labelColor=&color=0CA4A5)
 ![](https://img.shields.io/badge/PURPOSE%20ONLY-y?style=for-the-badge&logo=bookstack&logoColor=0CA4A5&label=EDUCATIONAL&color=0CA4A5)
 ---
-![](https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-000?style=for-the-badge&logo=ApacheSpark&logoColor=0CA4A5) 
-
+<!--![](https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-fff?style=for-the-badge&logo=ApacheSpark&logoColor=0CA4A5) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-fff?style=for-the-badge&logo=ApacheSpark&logoColor=0CA4A5">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-000?style=for-the-badge&logo=ApacheSpark&logoColor=0CA4A5">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-000?style=for-the-badge&logo=ApacheSpark&logoColor=0CA4A5">
+</picture>
 
 <!-- [![crxzy](https://quotes-github-readme.vercel.app/api?type=horizontal&author=crxzy&theme=merko&border=true)](https://github.com/crxzygit) -->
 <!-- [![crxzy](https://quotes-github-readme.vercel.app/api?type=horizontal&author=crxzy&theme=tokyonight&border=true)](https://github.com/crxzygit) -->
@@ -75,6 +79,7 @@
 # Learn Git and Github
 - [github.com/awesome-github](https://github.com/phillipadsmith/awesome-github#awesome-github--)
 - [github.com/awesome](https://github.com/sindresorhus/awesome#contents)
+- GitHub Markdown - [Basics](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) | [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 # Piracy
 - [rentry.org/The-Piracy-Glossary](https://rentry.org/The-Piracy-Glossary)
@@ -399,7 +404,6 @@ SetShowcaseConfig(2, '0', N, {appid: X})
 > [!NOTE]
 > Replace ```X``` with appid of the game you want<br>
 > Get appid of games from https://steamdb.info 
-> Hellohow are you   
 
 > [!IMPORTANT]
 Example: <br>
