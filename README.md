@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
 <!--![](https://komarev.com/ghpvc/?username=crxzygit&style=for-the-badge&color=0CA4A5&base=162&logo=) -->
 <br>
-<a href="https://github.com/crxzygit/link-library/blob/main/README.md">
+<a href="#">
 
 ![](https://img.shields.io/badge/DIRECT%20LINKS-y?style=for-the-badge&logo=inertia&logoColor=fff&labelColor=000&color=0CA4A5)
 ![](https://img.shields.io/badge/EDUCATIONAL%20PURPOSE%20ONLY-y?style=for-the-badge&logo=gitbook&logoColor=fff&labelColor=000&color=0CA4A5)<br>
