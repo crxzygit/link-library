@@ -7,16 +7,9 @@
 <br>
 <a href="#">
 
-![](https://img.shields.io/badge/DIRECT%20LINKS-y?style=for-the-badge&logo=inertia&logoColor=fff&labelColor=000&color=0CA4A5)
-![](https://img.shields.io/badge/EDUCATIONAL%20PURPOSE%20ONLY-y?style=for-the-badge&logo=gitbook&logoColor=fff&labelColor=000&color=0CA4A5)<br>
-![](https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-fff?style=for-the-badge&logo=ApacheSpark&logoColor=fff&labelColor=000&color=0CA4A5)
-
-</a>
-
-
-<!-- [![crxzy](https://quotes-github-readme.vercel.app/api?type=horizontal&author=crxzy&theme=merko&border=true)](https://github.com/crxzygit) -->
-<!-- [![crxzy](https://quotes-github-readme.vercel.app/api?type=horizontal&author=crxzy&theme=tokyonight&border=true)](https://github.com/crxzygit) -->
-
+![](https://img.shields.io/badge/DIRECT%20LINKS-y?style=for-the-badge&logo=inertia&logoColor=0CA4A5&labelColor=fff&color=0CA4A5)
+![](https://img.shields.io/badge/EDUCATIONAL%20PURPOSE%20ONLY-y?style=for-the-badge&logo=gitbook&logoColor=0CA4A5&labelColor=fff&color=0CA4A5)<br>
+![](https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-fff?style=for-the-badge&logo=ApacheSpark&logoColor=0CA4A5&labelColor=fff&color=0CA4A5)
 </div>
 
 <!-- omit from toc -->
