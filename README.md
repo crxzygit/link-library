@@ -5,15 +5,28 @@
  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
 
 
-![](https://komarev.com/ghpvc/?username=crxzygit&style=for-the-badge&color=0CA4A5&base=162&logo=) 
-![](https://img.shields.io/badge/LINKS-y?style=for-the-badge&logo=inertia&logoColor=0CA4A5&label=DIRECT&labelColor=&color=0CA4A5)
-![](https://img.shields.io/badge/PURPOSE%20ONLY-y?style=for-the-badge&logo=bookstack&logoColor=0CA4A5&label=EDUCATIONAL&color=0CA4A5)
----
-<!--![](https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-fff?style=for-the-badge&logo=ApacheSpark&logoColor=0CA4A5) -->
+<!--![](https://komarev.com/ghpvc/?username=crxzygit&style=for-the-badge&color=0CA4A5&base=162&logo=) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-fff?style=for-the-badge&logo=ApacheSpark&logoColor=0CA4A5">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-000?style=for-the-badge&logo=ApacheSpark&logoColor=0CA4A5">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-000?style=for-the-badge&logo=ApacheSpark&logoColor=0CA4A5">
+    <a href="https://github.com/crxzygit/link-library/blob/main/README.md">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/DIRECT%20LINKS-y?style=for-the-badge&logo=inertia&logoColor=0CA4A5&labelColor=&color=fff">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/DIRECT%20LINKS-y?style=for-the-badge&logo=inertia&logoColor=0CA4A5&labelColor=&color=000">
+        <img src="https://img.shields.io/badge/DIRECT%20LINKS-y?style=for-the-badge&logo=inertia&logoColor=0CA4A5&labelColor=&color=fff">
+    </a>
+</picture>
+<picture>
+    <a href="https://github.com/crxzygit/link-library/blob/main/README.md">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EDUCATIONAL%20PURPOSE%20ONLY-y?style=for-the-badge&logo=inertia&logoColor=0CA4A5&labelColor=&color=fff">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/EDUCATIONAL%20PURPOSE%20ONLY-y?style=for-the-badge&logo=inertia&logoColor=0CA4A5&labelColor=&color=000">
+        <img src="https://img.shields.io/badge/EDUCATIONAL%20PURPOSE%20ONLY-y?style=for-the-badge&logo=inertia&logoColor=0CA4A5&labelColor=&color=fff">
+    </a>
+</picture>
+<br>
+<picture>
+    <a href="https://github.com/crxzygit/link-library/blob/main/README.md">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-fff?style=for-the-badge&logo=ApacheSpark&logoColor=0CA4A5">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-000?style=for-the-badge&logo=ApacheSpark&logoColor=0CA4A5">
+        <img src="https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-fff?style=for-the-badge&logo=ApacheSpark&logoColor=0CA4A5">
+    </a>
 </picture>
 
 <!-- [![crxzy](https://quotes-github-readme.vercel.app/api?type=horizontal&author=crxzy&theme=merko&border=true)](https://github.com/crxzygit) -->
