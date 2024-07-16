@@ -38,6 +38,8 @@
 - [VPN](#vpn)
 - [Useful Browser Extensions](#useful-browser-extensions)
 - [Movies](#movies)
+    - [Downloads](#downloads)
+    - [Stream](#stream)
 - [Android Apps](#android-apps)
 - [Fake Identity Generator](#fake-identity-generator)
 - [Wallpapers](#wallpapers)
@@ -78,6 +80,7 @@
     - [github.com/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy#awesome-piracy)
 - [r/Piracy/wiki](https://www.reddit.com/r/Piracy/wiki/index/)
     - [r/Piracy/wiki/Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)
+- https://snowfl.com - Torrent Search 
 
 # Guides
 - [freemediaheckyeah](https://fmhy.net/)
@@ -216,6 +219,7 @@ irm https://massgrave.dev/get | iex
 | [DeArrow](https://dearrow.ajay.app/)                               | For crowdsourcing better titles and thumbnails on YouTube, no more clickbait.                         |
 
 # Movies
+### Downloads
 - [olamovies.rent](https://olamovies.rent/) - (https://telegram.me/olamovies_officialv6)
 - [pahe.ink](https://pahe.ink/)
 - [psa.wf](https://psa.wf/)
@@ -226,7 +230,20 @@ irm https://massgrave.dev/get | iex
     PASSWORD : premium123
     ```
 - [uhdmovies](https://uhdmovies.eu)
-- [movies4u](https://movies4u.bid/) - (https://telegram.dog/movies4u_org)
+- [movies4u](https://movies4u.bid/) - (https://telegram.dog/movies4u_org) 
+- https://lightdl.xyz - 720p Only, Direct Links 
+### Stream
+- https://1flix.to
+- https://binged.live
+- https://mkvin.live
+- https://web.netmovies.to
+- https://watchseriesx.to
+- https://gomoviestv.to
+- https://watch2movies.net
+- https://sflixtv.to
+- https://movies2watch.tv
+- https://1hd.to
+- https://upmovies.net
 
 # Android Apps
 - [rexdl](https://rexdl.com/)
