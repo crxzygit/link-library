@@ -1,19 +1,19 @@
 
 <div align="center">
-
+<a href="#">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=41&duration=2700&pause=700&color=0CA4A5&center=true&vCenter=true&random=false&width=435&lines=Link+Library" width="100%" height="60">
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
 <!--![](https://komarev.com/ghpvc/?username=crxzygit&style=for-the-badge&color=0CA4A5&base=162&logo=) -->
 <br>
-<a href="#">
 
 ![](https://img.shields.io/badge/DIRECT%20LINKS-y?style=for-the-badge&logo=inertia&logoColor=0CA4A5&labelColor=fff&color=0CA4A5)
 ![](https://img.shields.io/badge/EDUCATIONAL%20PURPOSE%20ONLY-y?style=for-the-badge&logo=gitbook&logoColor=0CA4A5&labelColor=fff&color=0CA4A5)<br>
 ![](https://img.shields.io/badge/Remember_to_give_a_Star_if_you_found_this_library_helpful!-fff?style=for-the-badge&logo=ApacheSpark&logoColor=0CA4A5&labelColor=fff&color=0CA4A5)
+</a>
 </div>
 
 <!-- omit from toc -->
-# Categories :
+# CATEGORIES
 - [Link Shortners](#link-shortners)
 - [Autohotkey Scripts](#autohotkey-scripts)
 - [How stuff works](#how-stuff-works)
