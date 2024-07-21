@@ -18,6 +18,8 @@
 - [Autohotkey Scripts](#autohotkey-scripts)
 - [How stuff works](#how-stuff-works)
 - [Learn Git and Github](#learn-git-and-github)
+    - [Markdown](#markdown)
+    - [GitHub's awesomeness](#githubs-awesomeness)
 - [Piracy](#piracy)
 - [Guides](#guides)
 - [Web Development](#web-development)
@@ -60,19 +62,22 @@
 
 
 # Link Shortners
-- [https://dub.co](https://dub.co/)
-- [https://gg.gg](https://gg.gg/)
-
+- https://dub.co
+- https://gg.gg
+- 
 # Autohotkey Scripts
-- [github.com/Autohotkey-scripts-.ahk](https://github.com/Drugoy/Autohotkey-scripts-.ahk#autohotkey-scripts-ahk)
+- https://github.com/Drugoy/Autohotkey-scripts-.ahk#autohotkey-scripts-ahk
 
 # How stuff works
-- [github.com/winrar-keygen](https://github.com/viperadnan-git/winrar-keygen/#winrar-keygen)
+- https://github.com/viperadnan-git/winrar-keygen/#winrar-keygen
 
 # Learn Git and Github
-- [github.com/awesome-github](https://github.com/phillipadsmith/awesome-github#awesome-github--)
-- [github.com/awesome](https://github.com/sindresorhus/awesome#contents)
-- GitHub Markdown - [Basics](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) | [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+### Markdown
+- Basics - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+### GitHub's awesomeness 
+- https://github.com/phillipadsmith/awesome-github#awesome-github--
+- https://github.com/sindresorhus/awesome#contents
 
 # Piracy
 - [rentry.org/The-Piracy-Glossary](https://rentry.org/The-Piracy-Glossary)
