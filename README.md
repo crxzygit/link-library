@@ -14,9 +14,9 @@
 
 <!-- omit from toc -->
 # CATEGORIES
-- [Link Shortners](#link-shortners)
-- [Autohotkey Scripts](#autohotkey-scripts)
-- [How stuff works](#how-stuff-works)
+- [🔗 Link Shortners](#-link-shortners)
+- [🅰️ Autohotkey Scripts](#️-autohotkey-scripts)
+- [🕮 How stuff works](#-how-stuff-works)
 - [Learn Git and Github](#learn-git-and-github)
 - [Piracy](#piracy)
 - [Guides](#guides)
@@ -59,14 +59,14 @@
     - [Display any game in game collector section (Even if you dont own them!)](#display-any-game-in-game-collector-section-even-if-you-dont-own-them)
 
 
-# Link Shortners
+# 🔗 Link Shortners
 - [dub.co](https://dub.co/)
 - [gg.gg](https://gg.gg/)
 
-# Autohotkey Scripts
+# 🅰️ Autohotkey Scripts
 - [github.com/Autohotkey-scripts-.ahk](https://github.com/Drugoy/Autohotkey-scripts-.ahk#autohotkey-scripts-ahk)
 
-# How stuff works
+# 🕮 How stuff works
 - [github.com/winrar-keygen](https://github.com/viperadnan-git/winrar-keygen/#winrar-keygen)
 
 # Learn Git and Github
@@ -258,6 +258,7 @@ irm https://massgrave.dev/get | iex
 # Wallpapers
 
 ### Desktop
+- https://www.wallpaperengine.space
 - [wallhaven.cc](https://wallhaven.cc)
 - [wallhalla.com](https://wallhalla.com)
 - [heroscreen.cc](https://www.heroscreen.cc/)
@@ -268,6 +269,7 @@ irm https://massgrave.dev/get | iex
 - [pexels.com](https://www.pexels.com/)
 - [positrondream.com](https://www.positrondream.com/wallpapers-all)
 - [artstation.com](https://www.artstation.com/)
+- [pixground](https://www.pixground.com/)
 - [pixexid.com](https://pixexid.com/) - (Ai generated)
 - [r/wallpaper](https://www.reddit.com/r/wallpaper/)
 - [r/wallpapers](https://www.reddit.com/r/wallpapers/)
@@ -431,6 +433,131 @@ For showcasing **STAR WARS Jedi: Fallen Order** as the ```Second Game in Level 3
 </details>
 -->
 
+---
+---
+Useful Websites:
+https://paywithmoon.com - Buy a credit card with crypto with no fees
+https://paycrypt.ml - Exchange PayPal to LTC with only 5% Fee
+https://auto.creavite.co - Make free banners, pfp etc
+https://fixedfloat.com/ - Exchange crypto to crypto, with only 0.5% Fee
+https://sell.app - Shoppy/Sellix alternative that takes 0% from your Crypto and PayPal payments
+https://github.com - Find any code
+https://anonfiles.com - File Upload and sharing
+https://hdtoday.cc - Free movies and series without ads
+https://deepsukebe.io - Make deepfake photos
+https://www.verif.tools - Make fake IDs, Passports etc
+https://temp-mail.org - Temporary Email so you don't fill yours with spam
+https://www.afreesms.com - Send a free SMS to anyone
+https://haveibeenpwned.com - Check if an account has been leaked
+https://email-nuker.herokuapp.com - Email Spammer
+https://www.omejo.com - Hidden Camera in normal day products
+https://juicysms.com - Phone verification for anything
+https://osintframework.com - Doxing
+https://bypasser.online - Bypass any ad link
+
+Less Useful Websites but worth mentioning
+https://blockadblock.com - Block people using ad blocker on your site
+https://emkei.cz - Email Spoofer
+http://www.chessnextmove.com - Win every chess game
+https://doxbin.com - Post your Dox
+https://remove.bg - Remove Background from images
+https://cloudconvert.com - Convert any file types
+https://proton.me - Anonymous Mail
+https://pastebin.com - Share text
+https://thispersondoesnotexist.com - Get a random picture of someone
+https://thiscatdoesnotexist.com - Get a random picture of a a cat
+https://imgur.com - Share, Upload Images
+https://www.trustpilot.com - Check if a website is legit
+https://www.virustotal.com - Check if a file is harmful
+https://stackoverflow.com - Find a coding solution to any error
+https://www.w3schools.com - Learn Coding for free
+https://panzoid.com - Make cringy YouTube intro or outro
+https://brightvpn.com - Free Premium VPN
+https://www.fakenamegenerator.com - Fake Identity
+https://www.futureme.org - Send an email to your future self
+https://mcbroken.com - Check if the McDonalds ice cream machine is working
+https://www.behindthename.com - Meaning and History of a name
+https://libraryofbabel.info - Every possible letter/number combination
+https://www.khanacademy.org - Free Education
+https://smailpro.com - Get a temp @gmail.com email
+https://mailbait.info - Sign someone up to email spam lists 
+https://kahootbot.org - Fill a kahoot with bots
+https://www.hacksplaining.com - Learn to hack for free
+https://www.copy.ai - Automate copywriters
+https://www.prepostseo.com - SEO Tools
+https://jenni.ai - AI to write for you
+https://www.photopea.com - Free online version of photoshop
+https://texts.com - All your texts in one place
+https://www.make.com - Connect your apps together
+https://www.beautiful.ai - AI Designs presentations for you
+https://axiom.ai - Automate Browser Tasks
+
+Free Proxies
+https://proxyscrape.com/free-proxy-list
+https://webtools.ipfail.org/free-proxy-tools
+https://openproxy.space/list
+https://www.proxy-list.download
+https://free-proxy-list.net
+https://www.us-proxy.org
+https://www.sslproxies.org
+https://proxypremium.top/download-proxy-list
+http://free-proxy.cz/en
+https://hidemy.name/en/proxy-list
+https://geonode.com/free-proxy-list
+
+Free SMS
+These will probably not work but good luck.
+https://www.receivesms.co
+https://oksms.org
+https://receive-smss.com
+http://receive-sms-online.com
+https://www.freeonlinephone.org
+https://www.receivesmsonline.net
+http://receivefreesms.com
+https://receive-sms.com
+
+Retarded Websites:
+https://theuselessweb.com - Will take you to a random pointless website
+https://bongo.cat - Bongo Cat
+http://chillestmonkey.com - Monkey
+http://www.lemonparty.org - Send this to someone
+https://www.cornhub.website - The best site on the internet
+https://noclip.website - Load maps of Nintendo games
+https://www.omfgdogs.com - Visit to get autism
+https://istheinternetdown.com - Is the internet down?
+https://isitchristmas.com - Is it Christmas?
+https://www.sometimesredsometimesblue.com - Red or Blue?
+http://hasthelargehadroncolliderdestroye...rldyet.com - Has the large hadron collider destroyed the world yet?
+https://hackertyper.com - Become a hacker
+http://doihaveswineflu.org - Do you have Swine Flu?
+https://chickenonaraft.com - Chicken on a raft
+https://cat-bounce.com - Bouncing Cats
+http://www.whatthefuckshouldimakefordinner.com - Cook Dinner
+http://www.deathclock.com - Find out when you will die
+https://www.downloadmoreram.com - Running low on RAM?
+http://www.imaginarygirlfriends.com - Need a girlfriend?
+https://yyyyyyy.info - The metaverse
+
+Torrent Sites:
+You should us a VPN accessing these
+https://thepiratebay.org
+https://rarbg.to
+https://www.1337x.to
+https://torrentz2eu.org
+https://yts.mx
+https://eztv.re
+https://www.limetorrents.lol
+https://torrends.to
+https://www.torrentdownloads.pro
+https://iptorrents.com
+
+Dark Web/Onion Sites:
+Use Tor Browser
+Hidden Wiki has loads of sites so you can just find a huge list there
+
+http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page
+
+---
 ---
 
 Here is a simple footnote[^1].
