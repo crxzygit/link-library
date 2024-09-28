@@ -13,68 +13,72 @@
 </div>
 
 <!-- omit from toc -->
-# CATEGORIES
-- [🔗 Link Shortners](#-link-shortners)
-- [🅰️ Autohotkey Scripts](#️-autohotkey-scripts)
-- [🕮 How stuff works](#-how-stuff-works)
-- [Learn Git and Github](#learn-git-and-github)
-- [Piracy](#piracy)
-- [Guides](#guides)
-- [Web Development](#web-development)
-- [Text to Handwriting](#text-to-handwriting)
-- [Canva Pro Invite Links](#canva-pro-invite-links)
-- [Forums](#forums)
-- [Artifical Inteligence (AI)](#artifical-inteligence-ai)
-- [MACOS Apps](#macos-apps)
-- [PC Games](#pc-games)
-- [PC Games Trainers (Cheats)](#pc-games-trainers-cheats)
-- [Games Cracks News](#games-cracks-news)
-- [Pastebins](#pastebins)
-- [Graphics Asset](#graphics-asset)
-- [Windows Download Managers](#windows-download-managers)
-- [Windows and Office Activation](#windows-and-office-activation)
-- [Adobe Products Activation](#adobe-products-activation)
+# CATEGORIES :
+- [LINK SHORTNERS](#link-shortners)
+- [AUTOHOTKEY SCRIPTS](#autohotkey-scripts)
+- [HOW STUFF WORKS](#how-stuff-works)
+- [LEARN GIT](#learn-git)
+- [PIRACY](#piracy)
+- [GUIDES](#guides)
+- [WEB DEVELOPMENT](#web-development)
+- [TEXT TO HANDWRITING](#text-to-handwriting)
+- [CANVA PRO INVITE LINKS](#canva-pro-invite-links)
+- [FORUMS](#forums)
+- [ARTIFICIAL INTELLIGENCE (AI)](#artificial-intelligence-ai)
+- [MACOS APPS](#macos-apps)
+- [PC GAMES](#pc-games)
+- [PC GAMES TRAINER (CHEATS)](#pc-games-trainer-cheats)
+- [GAMES CRACK NEWS](#games-crack-news)
+- [PASTEBINS](#pastebins)
+- [GRAPHICS ASSET](#graphics-asset)
+- [WINDWOS DOWNLOAD MANAGER](#windwos-download-manager)
+- [WINDOWS AND OFFICE ACTIVATION](#windows-and-office-activation)
+- [ADOBE PRODUCTS ACTIVATION](#adobe-products-activation)
     - [r/GenP - (Patching Creative Cloud Application)](#rgenp---patching-creative-cloud-application)
 - [VPN](#vpn)
-- [Useful Browser Extensions](#useful-browser-extensions)
-- [Movies](#movies)
+- [USEFUL BROWSER EXTENSIONS](#useful-browser-extensions)
+- [MOVIES](#movies)
     - [Downloads](#downloads)
     - [Stream](#stream)
-- [Android Apps](#android-apps)
-- [Fake Identity Generator](#fake-identity-generator)
-- [Wallpapers](#wallpapers)
+- [ANDROID APPS](#android-apps)
+- [FAKE IDENTITY GENERATOR](#fake-identity-generator)
+- [WALLPAPERS](#wallpapers)
     - [Desktop](#desktop)
     - [Mobile](#mobile)
 - [CS2](#cs2)
-- [Fonts](#fonts)
-- [Notepad Tricks](#notepad-tricks)
+- [FONTS](#fonts)
+- [NOTEPAD TRICKS](#notepad-tricks)
     - [1. Matrix falling text motion](#1-matrix-falling-text-motion)
     - [2. How to make your computer Welcome 'your name' on start up](#2-how-to-make-your-computer-welcome-your-name-on-start-up)
-    - [3. Text to Audio](#3-text-to-audio)
+    - [3. TEXT TO AUDIO](#3-text-to-audio)
     - [4. Add time stamp everytime text file is edited](#4-add-time-stamp-everytime-text-file-is-edited)
-- [Softwares](#softwares)
-- [Miscellaneous / Unique Websites](#miscellaneous--unique-websites)
-- [Unicode Text Styles Converters](#unicode-text-styles-converters)
-- [Steam Tricks](#steam-tricks)
+- [SOFTWARES](#softwares)
+- [MISCELLANEOUS / UNIQUE WEBSITES](#miscellaneous--unique-websites)
+- [UNICODE TEXT STYLES CONVERTERS](#unicode-text-styles-converters)
+- [STEAM TRICKS](#steam-tricks)
     - [Display any game in game collector section (Even if you dont own them!)](#display-any-game-in-game-collector-section-even-if-you-dont-own-them)
 
+---
+---
+---
+---
 
-# 🔗 Link Shortners
+# LINK SHORTNERS
 - [dub.co](https://dub.co/)
 - [gg.gg](https://gg.gg/)
 
-# 🅰️ Autohotkey Scripts
+# AUTOHOTKEY SCRIPTS
 - [github.com/Autohotkey-scripts-.ahk](https://github.com/Drugoy/Autohotkey-scripts-.ahk#autohotkey-scripts-ahk)
 
-# 🕮 How stuff works
+# HOW STUFF WORKS
 - [github.com/winrar-keygen](https://github.com/viperadnan-git/winrar-keygen/#winrar-keygen)
 
-# Learn Git and Github
+# LEARN GIT
 - [github.com/awesome-github](https://github.com/phillipadsmith/awesome-github#awesome-github--)
 - [github.com/awesome](https://github.com/sindresorhus/awesome#contents)
 - GitHub Markdown - [Basics](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) | [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-# Piracy
+# PIRACY
 - [rentry.org/The-Piracy-Glossary](https://rentry.org/The-Piracy-Glossary)
 - [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
     - [github.com/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy#awesome-piracy)
@@ -82,13 +86,13 @@
     - [r/Piracy/wiki/Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)
 - https://snowfl.com - Torrent Search 
 
-# Guides
+# GUIDES
 - [freemediaheckyeah](https://fmhy.net/)
     - [r/freemediaheckyeah/wiki](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
 - [rentry.co/fmhy-guides](https://rentry.co/fmhy-guides#fmhy-guides)
 
     
-# Web Development
+# WEB DEVELOPMENT
 - [github.com/web-development-resources](https://github.com/markodenic/web-development-resources#awesome-web-development-resources-)
 - [codemyui - (Web Design & UI Inspiration with Code Snippets)](https://codemyui.com/)
 - [nullsto.com - (Wordpress themes, plugins, GFX)](https://www.nullsto.com)
@@ -104,32 +108,33 @@
     - [zerossl.com](https://zerossl.com/)
     - [letsencrypt.org](https://letsencrypt.org/) 
 
-# Text to Handwriting
+# TEXT TO HANDWRITING
 - [github.io/Assignment_Writer/](https://saiteja69.github.io/Assignment_Writer/)
     - [github.com/Digital_Text_To_Handwriting](github.com/SaiTeja69/Digital_Text_To_Handwriting)
 
-# Canva Pro Invite Links
+# CANVA PRO INVITE LINKS
 - [proinvitelinks.com](https://www.proinvitelinks.com/)
 
-# Forums
+# FORUMS
 - [onehack.us - (Ethical Hacking, Giveaways, CyberSecurity, Free Tutorials, Guides, Courses)](https://onehack.us)
 - [cracked.io - (Cracking tutorials, tools, leaks, marketplace)](https://cracked.io)
 - [nulledbb.com - (Need credits)](https://nulledbb.com/)
 
 
-# Artifical Inteligence (AI)
+# ARTIFICIAL INTELLIGENCE (AI)
 - [Chat Genius Guide (Ai 40k Prompts, 4k Ai Tools, 600 No code Tools)](https://dented-can-40b.notion.site/Chat-Genius-Ai-40k-Prompts-1-4k-Ai-Tools-600-No-code-Tools-AI-Total-Guide-2ad948d6dd3e4c5c90a13fc4ad1666de)
+- [Premium 10,000 AI-Powered Business Ideas Prompts Bundle](https://miguelanticonam.notion.site/Premium-10-000-AI-Powered-Business-Ideas-Prompts-Bundle-893605c8024842938dcd790d2690185d)
 - [Perplexity - (Realtime, up-to-date answers, leverages the power of AI like GPT-4 and Claude 2)](https://www.perplexity.ai/)
 - [chat.hackerai.co](https://chat.hackerai.co/) - (Answering your hacking related questions and codes)
   - [github.com/Hacker-GPT](https://github.com/Hacker-GPT/HackerGPT-2.0/)
 - [aihustle](https://aihustle.tools) - (Collection of tools)
 
-# MACOS Apps
+# MACOS APPS
 - [nmac.to](https://nmac.to/now/)
 - [haxmac.cc](https://haxmac.cc/)
 - [torrentmac.net](https://www.torrentmac.net/)
 
-# PC Games
+# PC GAMES
 - [gdhubnation.gdhub.workers.dev](https://gdhubnation.gdhub.workers.dev/0:/Games/PC%20GAMES/)
     <br>Gdhubnation Login Details : Get password at https://t.me/gdhubnation or https://t.me/addlist/kSRuxU-MT_swMWY1
     ```
@@ -141,22 +146,22 @@
 - [game-repacks.site - (Full download , Direct Play, no install)](https://game-repack.site/)
 - [gamesdrive.net](https://gamesdrive.net/index.php)
 
-# PC Games Trainers (Cheats)
+# PC GAMES TRAINER (CHEATS)
 - [flingtrainer.com](https://flingtrainer.com/)
 - [mrantifun.net](https://mrantifun.net/)
 - [fearlessrevolution.com - (Cheat engine tables)](https://fearlessrevolution.com/)
 - [wemod.com](https://www.wemod.com/)
 
-# Games Cracks News
+# GAMES CRACK NEWS
 - [r/CrackWatch](https://www.reddit.com/r/CrackWatch/)
 
-# Pastebins
+# PASTEBINS
 - [pastebin.com](https://pastebin.com/)
 - [rentry.co](https://rentry.co/)
 - [hastebin.de](https://hastebin.de/)
 - [paste.fo](https://paste.fo)
 
-# Graphics Asset
+# GRAPHICS ASSET
 - [psdly.com ](https://www.psdly.com)
 - [freevideoeffect](https://freevideoeffect.com) - (Gdrive Downloads)
 - [aedownload.com](https://aedownload.com/)
@@ -167,12 +172,12 @@
 - [shareae.com](https://shareae.com/)
 
   
-# Windows Download Managers
+# WINDWOS DOWNLOAD MANAGER
 - [FreeDownloadManager](https://www.freedownloadmanager.org/)
 - [Internet Download Manager - (Paid)](https://www.internetdownloadmanager.com/download.html)
 - [JDownloader2](https://jdownloader.org/jdownloader2)
 
-# Windows and Office Activation
+# WINDOWS AND OFFICE ACTIVATION
 > [!WARNING]
 > Run Powershell (Not CMD), Copy and paste the code below and press enter.
 ```
@@ -187,7 +192,7 @@ irm https://massgrave.dev/get | iex
     - [github.com/massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
     - [activated.win](https://activated.win/)
 
-# Adobe Products Activation
+# ADOBE PRODUCTS ACTIVATION
 ### [r/GenP - (Patching Creative Cloud Application)](https://www.reddit.com/r/GenP/)
 
 1. Compatibility List
@@ -204,7 +209,7 @@ irm https://massgrave.dev/get | iex
 - [VPN Comparison Chart on r/VPN](https://www.reddit.com/r/VPN/comments/m736zt/vpn_comparison_table/)
     - [Comparison table in Google Sheets](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit?pli=1&gid=231869418#gid=231869418)
 
-# Useful Browser Extensions
+# USEFUL BROWSER EXTENSIONS
 
 | Extension                                                          | Description                                                                                           |
 | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
@@ -218,7 +223,7 @@ irm https://massgrave.dev/get | iex
 | [vidIQ Vision](https://vidiq.com/extension/)                       | Comprehensive optimization report card for any YouTube video, with insights and metrics.              |
 | [DeArrow](https://dearrow.ajay.app/)                               | For crowdsourcing better titles and thumbnails on YouTube, no more clickbait.                         |
 
-# Movies
+# MOVIES
 ### Downloads
 - [olamovies.rent](https://olamovies.rent/) - (https://telegram.me/olamovies_officialv6)
 - [pahe.ink](https://pahe.ink/)
@@ -245,17 +250,17 @@ irm https://massgrave.dev/get | iex
 - https://1hd.to
 - https://upmovies.net
 
-# Android Apps
+# ANDROID APPS
 - [rexdl](https://rexdl.com/)
   
-# Fake Identity Generator
+# FAKE IDENTITY GENERATOR
 - [businer](https://www.businer.com/tools.php)
 - [verify.tools](https://verif.tools/en/)
 - [fakenamegenerator](https://www.fakenamegenerator.com/)
 - [igopaygo.com/people/fake-person](https://names.igopaygo.com/people/fake-person)
 - [fakeaddressgenerator](https://www.fakeaddressgenerator.com/US_Real_Random_Address)
 
-# Wallpapers
+# WALLPAPERS
 
 ### Desktop
 - https://www.wallpaperengine.space
@@ -290,11 +295,11 @@ irm https://massgrave.dev/get | iex
 # CS2
 - [Crosshair Generator](https://dathost.net/tools/cs2-crosshair-generator)
 
-# Fonts
+# FONTS
 - [1001freefonts.com](https://www.1001freefonts.com/)
 - [dafont.com](https://www.dafont.com/)
   
-# Notepad Tricks
+# NOTEPAD TRICKS
 ### 1. Matrix falling text motion
 [Download - Github gist](https://gist.github.com/crxzygit/e11f78a8959b38ca5c70e9199e5d8ce7)
 
@@ -329,7 +334,7 @@ crxzygit.Speak speaks
 > 1. Open the run box by pressing the Windows button + R and typing "AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup". 
 > 2. Save this code in Notepad, then click Save As and enter any name after the type.vbs, then click on all files.everything is done.
 ---
-### 3. Text to Audio
+### 3. TEXT TO AUDIO
 [Download - Github gist](https://gist.github.com/crxzygit/98eb08ce746eb3ec0ebb8c05eaa7f792)
 
 OR 
@@ -351,16 +356,16 @@ crxzygit.Speak msg
 4. Open the saved file, Notepad will automatically insert the current date and time after the last line.
 5. Type your data for that time and date, then save the file again.
 
-# Softwares
+# SOFTWARES
 - [Ninite - (Install and Update All Your Programs at Once)](https://ninite.com/)
 
-# Miscellaneous / Unique Websites
+# MISCELLANEOUS / UNIQUE WEBSITES
 - [carbon.now](https://carbon.now.sh/) (Create and share beautiful images of your source code)
 - [gcemetery](https://gcemetery.co/) (List of dead Google products / services)
 - [themostamazingwebsiteontheinternet.com](http://www.themostamazingwebsiteontheinternet.com/)
 - [linkshub.dev](https://www.linkshub.dev/) (Wide range of free resources and tools)
   
-# Unicode Text Styles Converters
+# UNICODE TEXT STYLES CONVERTERS
 - [qaz.wtf](https://qaz.wtf/u/convert.cgi?text=crxzygit)
 - [coolsymbol.com](https://coolsymbol.com/cool-fancy-text-generator.html)
 - [messletters](https://www.messletters.com/en/)
@@ -370,7 +375,7 @@ crxzygit.Speak msg
 - [stylemytext](https://www.stylemytext.com/)
 - [unicode-formatter](https://unicode-formatter.demolab.com/)
 
-# Steam Tricks
+# STEAM TRICKS
 ### Display any game in game collector section (Even if you dont own them!)
 
 ![preview_game_showcase](https://github.com/crxzygit/gdriveindex/assets/31028322/fc8d56aa-98fb-4d61-b2ea-7d4e52dde704)
